@@ -4,17 +4,23 @@ body {
   margin: 0;
 }
 
-/*header, figure { text-align:center; }*/
-
-/*nav a { text-align:center; background-color:grey; }*/
-
-/*nav a { padding-left: 10px; padding-right: 10px; }*/
-
-header, figure, nav { text-align:center; }
+header, figure, nav { 
+  text-align:center;
+}
       
-a { padding-left: 10px; padding-right: 10px; background-color:grey; }
+a { 
+  padding-left: 10px; 
+  padding-right: 10px; 
+  background-color:grey; 
+  
+}
 
-#featured-property p { margin-left:auto; margin-right:auto; width:800px; }
+#featured-property p { 
+  margin-left:auto; 
+  margin-right:auto; 
+  width:800px;
+}
+
 footer {
   background: red;
   color: black;
@@ -22,6 +28,13 @@ footer {
   justify-content: center;
 }
 
-div { float:left; text-align:center; background:red; width:25%; }
+div { 
+  float:left; 
+  text-align:center; 
+  background:red; 
+  width:25%;
+}
 
-footer a { background: red; }
+footer a { 
+  background: red;
+}
